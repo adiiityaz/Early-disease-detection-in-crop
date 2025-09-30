@@ -67,15 +67,16 @@ streamlit run app\main.py --server.port 8501
 - After upload: left shows 150×150 preview, right has "Classify" → displays `Prediction: <class>`
 
 ### Screenshots
-Add images to `assets/` in the repo root with exact names:
-```
-assets/
-  ui-home.png
-  ui-prediction.png
-```
 
-![Home Screen](assets/ui-home.png)
-![Prediction Result](assets/ui-prediction.png)
+##  UI Home
+  <img width="1918" height="846" alt="ui-home png" src="https://github.com/user-attachments/assets/d86ac394-00e4-468e-8462-906ab6f9133b" />
+
+ ## UI Prediction
+ <img width="1917" height="837" alt="ui-prediction" src="https://github.com/user-attachments/assets/39f21407-e993-420a-924a-2678e59cd6cf" />
+
+ 
+ 
+
 
 
 ## Docker (Optional)
